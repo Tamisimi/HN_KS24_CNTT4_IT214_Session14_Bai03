@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: saga-choreography-demo
+
+saga:
+  shipping-timeout-seconds: 30
